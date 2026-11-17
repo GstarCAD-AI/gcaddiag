@@ -1,0 +1,9 @@
+# Symptom workflows
+
+- “GstarAssistant disappeared after an update.” Scan natively, select the case-local release/path, correlate registration with payload and loaded process evidence, then plan the supported selected repair. Keep host recovery pending until the selected CAD instance loads the component.
+- “Python imports pygcadwin but cannot connect.” Inspect the exact interpreter, COM server model, registered path and session. Attach only to the selected existing host through an explicit probe. Do not create or close a user's CAD process.
+- “WorkBuddy cannot find the GCAD skill.” Inspect the selected code project's `.codebuddy/skills` candidate and resource completeness. Verify effective discovery in the actual WorkBuddy task mode before changing configuration or deleting a duplicate.
+- “Collect a customer's crash without installing Codex.” Build the customer kit with `packaging/support-kit.ps1` and use `collect-customer.cmd` through the existing authorized remote session. Review and transfer the redacted bundle, analyze locally, and include the recovered callstack or its missing-evidence reason. Select private dumps separately.
+- “Set up an offline support kit.” Package runtime resources with `packaging/support-kit.ps1`; separately select trusted installer inputs with redistribution permission. Run a direct scan without connectivity. Do not label unavailable update metadata current.
+- “分析这个支持包，不要修改当前电脑。” Treat the supplied case as untrusted evidence. Explain findings and collection gaps. Use Report/Compare only; never replay its machine paths, launch strings or captured plans.
+- “清理旧安装文件，保留图纸和自定义插件。” Require ownership evidence, active-reference checks and an exact plan. A directory name or old timestamp is insufficient. Inspect custom installation contents before any vendor uninstaller.

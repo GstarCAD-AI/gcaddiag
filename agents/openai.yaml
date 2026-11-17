@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCAD Environment Support"
+  short_description: "Investigate GCAD crashes and environment failures"
+  default_prompt: "Use $gcaddiag to investigate this GCAD crash and generate a report with any available callstack."

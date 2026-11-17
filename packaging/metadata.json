@@ -1,0 +1,8 @@
+{
+  "name": "gcaddiag",
+  "version": "0.1.0",
+  "displayName": "GCAD Environment Support",
+  "description": "Windows evidence collection and scoped GCAD environment maintenance for external agents.",
+  "publication": "not published; no marketplace identity or author inferred",
+  "hostAcceptance": {"codex": "native discovery and collector invocation verified; final model response timed out", "workbuddy": "optional unverified adapter"}
+}

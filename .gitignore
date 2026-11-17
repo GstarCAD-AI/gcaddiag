@@ -1,0 +1,9 @@
+# Local diagnostics and distribution outputs
+/TASKS.md
+/GUIDELINE.md
+cases/
+.tmp/
+dist/
+*.zip
+__pycache__/
+tests/.tmp-*/
